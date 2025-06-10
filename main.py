@@ -1,5 +1,6 @@
 import speech_recognition as sr
 import wikipedia
+import numpy
 import pyttsx3
 import pyjokes
 import twilio
